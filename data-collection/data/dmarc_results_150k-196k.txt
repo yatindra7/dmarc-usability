@@ -1,4 +1,6 @@
-RESULTS: 46299RESULTS: 45082_dmarc.edithpatisserie.com. : NXDOMAIN
+TOTAL: 46299
+RESULTS: 45082
+_dmarc.edithpatisserie.com. : NXDOMAIN
 _dmarc.edmaker.co. : _dmarc.edmaker.co. 3600 IN TXT "v=DMARC1; p=quarantine; rua=mailto:oitsw9kj@ag.us.dmarcian.com; ruf=mailto:oitsw9kj@fr.us.dmarcian.com;"
 _dmarc.edmontonjournal.com. : NXDOMAIN
 _dmarc.eewosecure.com. : NXDOMAIN
@@ -46530,4 +46532,3 @@ _dmarc.djocwlel.ru. : NXDOMAIN
 _dmarc.djsatpkt.ru. : NXDOMAIN
 _dmarc.dkncloudna.com. : NXDOMAIN
 _dmarc.dkoutlet.com. : NXDOMAIN
-RESULTS: 46299RESULTS: 45082
